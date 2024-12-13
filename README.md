@@ -9,13 +9,13 @@
 
 Feel free to connect with me 🙂.
 
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://skillicons.dev)
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/hannapoli/)
 
 *hannapoli*
 
 ### Skills ###
 
-[![My Skills](https://skillicons.dev/icons?i=git,github,html,css,js,c,powershell,md,netlify,vim,vscode,notion)](https://skillicons.dev)
+![My Skills](https://skillicons.dev/icons?i=git,github,html,css,js,c,powershell,md,netlify,vim,vscode,notion)
 
 <!---
 hannapoli/hannapoli is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
