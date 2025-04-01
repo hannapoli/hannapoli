@@ -2,10 +2,9 @@
 
 👋 **Hello**, I am Hanna.
 
-* I am currently studying **Software Development** :woman_technologist: at [42 Urduliz](https://www.42urduliz.com/) in Spain :es:.
+* I am currently studying **Web Development** :woman_technologist: in Spain :es:.
 * **M.A. degree in Economics** in the Kyiv-Mohyla Academy, Ukraine :ukraine:.
 * Languages :speech_balloon:: **Fluent in Ukrainian, English, Spanish and Russian** and currently **learning Japanese**.
-* Interested in **Web Development** and **Artificial Intelligence**.
 
 Feel free to connect with me 🙂.
 
@@ -15,7 +14,7 @@ Feel free to connect with me 🙂.
 
 ### Skills ###
 
-![My Skills](https://skillicons.dev/icons?i=git,github,html,css,js,c,powershell,md,netlify,vim,vscode,notion)
+![My Skills](https://skillicons.dev/icons?i=git,github,html,css,js,c,powershell,md,netlify,firebase,vim,vscode,notion)
 
 <!---
 hannapoli/hannapoli is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
