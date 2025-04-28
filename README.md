@@ -4,7 +4,7 @@
 
 * I am currently studying **Web Development** :woman_technologist: in Spain :es:.
 * **M.A. degree in Economics** in the Kyiv-Mohyla Academy, Ukraine :ukraine:.
-* Languages :speech_balloon:: **Fluent in Ukrainian, English, Spanish and Russian** and currently **learning Japanese**.
+* Languages :speech_balloon:: **Fluent in Ukrainian, English and Spanish** and currently **learning Japanese**.
 
 Feel free to connect with me 🙂.
 
