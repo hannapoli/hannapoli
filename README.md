@@ -14,7 +14,7 @@ Feel free to connect with me 🙂.
 
 ### Skills ###
 
-![My Skills](https://skillicons.dev/icons?i=git,github,html,css,js,c,powershell,md,netlify,firebase,vim,vscode,notion)
+![My Skills](https://skillicons.dev/icons?i=git,github,html,css,js,c,bash,md,netlify,firebase,vim,vscode,notion)
 
 <!---
 hannapoli/hannapoli is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
