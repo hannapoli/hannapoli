@@ -1,16 +1,19 @@
-## Hi there 👋
+### About me ###
 
-<!--
-**hannapoli/hannapoli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👋 **Hello**, I am Hanna.
 
-Here are some ideas to get you started:
+* I am currently studying **Web Development** :woman_technologist: in Spain :es:.
+* **M.A. degree in Economics** in the Kyiv-Mohyla Academy, Ukraine :ukraine:.
+* Languages :speech_balloon:: **Fluent in Ukrainian, English, Spanish** and I am currently **learning Japanese**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Feel free to connect with me 🙂.
+
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/hannapoli/)
+
+*hannapoli*
+
+### Skills ###
+
+![My Skills](https://skillicons.dev/icons?i=git,github,html,css,js,c,bash,md,netlify,vscode,vim,notion)
+
+
