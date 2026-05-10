@@ -13,15 +13,7 @@ With a solid foundation in business administration and economics, I am good at d
 
 * Languages :speech_balloon:: **Fluent in Ukrainian, English and Spanish,** and I am currently **learning Japanese**.
 
-You can see more details about me in my LinkedIn profile.  
-Feel free to connect with me 🙂.
-
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/hannapoli/)
-
-
-*hannapoli*
-
-## Skills
+## Tech Stack
 
 ### Front-End:
 ![My Skills](https://skillicons.dev/icons?i=html,css,js,react,netlify,firebase)
@@ -31,3 +23,17 @@ Feel free to connect with me 🙂.
 
 ### Tools:
 ![My Skills](https://skillicons.dev/icons?i=git,github,npm,yarn,c,bash,md,netlify,vscode,vim,notion)
+
+## GitHub Stats
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=hannapoli&show_icons=true&theme=buefy"/>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=hannapoli&layout=compact&theme=buefy"/>
+</p>
+
+You can see more details about me in my LinkedIn profile.  
+Feel free to connect with me 🙂.
+
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/hannapoli/)
+
+*hannapoli*
